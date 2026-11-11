@@ -1,0 +1,3 @@
+Line 1 :-cd "c:\Users\pc\BCA Coding\" ; if ($?) { gcc ReviLine 2 :-sion.c -o Revision } ; if ($?) { .\Revision }
+Line 3 :-cd "c:\Users\pc\BCA Coding\" ; if ($?) { gcc ReviLine 4 :-sion.c -o Revision } ; if ($?) { .\Revision }
+Line 5 :-cd "c:\Users\pc\BCA Coding\" ; if ($?) { gcc Revi
