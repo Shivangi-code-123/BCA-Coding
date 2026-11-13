@@ -13,7 +13,7 @@ int main()
     {
         printf("\nWrite Your guess number :");
         scanf("%d",&guess);
-        attempts++;
+         attempts++;
 
         if(guess>randomNumber)
         {
